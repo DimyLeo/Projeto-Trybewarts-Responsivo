@@ -25,7 +25,7 @@ Tive 1 dias para entregar o projeto e ser aprovado em todos os requisitos.
   
   - O layout e design foi feito pelo Trybe, na estilização eu fiz o handover do design da Trybe, sendo o design da Trybe a esquerda e a minha versão a direita.
 
-  <img src='/algo.jpg' alt='img-projeto' />
+  <img src='/pagina-principal.png' alt='trybe-projeto' /> <img src='/TrybeWarts.jpg' alt='meu-projeto' />
   
 ---
 Esse é o Projeto, Teste a semelhança entre os designs e a responsividade. <a href='https://dimyleo.github.io/Projeto-Trybewarts-Responsivo/'>SITE</a>

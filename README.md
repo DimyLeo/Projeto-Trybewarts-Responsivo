@@ -23,7 +23,7 @@ Tive 1 dias para entregar o projeto e ser aprovado em todos os requisitos.
 ---
 ## Layout:
   
-  - O layout e design foi feito pelo Trybe, na estilização eu fiz o handover do design da Trybe, sendo o design da Trybe a esquerda e a minha versão a direita.
+  - O layout e design foi feito pelo Trybe, na estilização eu fiz o handover do design da Trybe, sendo o design da Trybe em cima e a minha versão em baixo.
 
   <img src='/pagina-principal.png' alt='trybe-projeto' /> <img src='/TrybeWarts.jpg' alt='meu-projeto' />
   

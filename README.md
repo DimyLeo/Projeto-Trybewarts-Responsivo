@@ -7,9 +7,9 @@ Esse é o um Projeto feito com HTML e CSS, avaliando a Responsividade do site.
 
 ## Layout:
   
-  - O layout e design foi feito pelo Trybe, na estilização eu fiz o handover do design da Trybe, sendo o design da Trybe em cima e a minha versão em baixo.
+  - O layout e design foi feito pelo Trybe, na estilização eu fiz o handover do design da Trybe.
 
-  <img src='/pagina-principal.png' alt='trybe-projeto' /> <img src='/TrybeWarts.jpg' alt='meu-projeto' />
+  <img src='/TrybeWarts.jpg' alt='meu-projeto' />
   
 ---
 ## Projeto Individual
